@@ -9,5 +9,5 @@ while const != user:
         print("Тепло~ \n")
     else:
         print("Холодно...")
-    user = int(input("попробуй еще раз \n"))
-print(f"Ты угадал! моё число: {const}") 
+    user = int(input("Попробуй еще раз \n"))
+print(f"Ты угадал! моё число: {const}")    
